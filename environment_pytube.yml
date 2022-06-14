@@ -1,0 +1,49 @@
+name: pytube
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.10.26=haa95532_4
+  - certifi=2021.10.8=py37haa95532_2
+  - openssl=1.1.1m=h2bbff1b_0
+  - pip=21.2.4=py37haa95532_0
+  - python=3.7.11=h6244533_0
+  - setuptools=58.0.4=py37haa95532_0
+  - sqlite=3.37.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py37haa95532_2
+  - pip:
+    - astroid==2.9.3
+    - black==22.1.0
+    - charset-normalizer==2.0.12
+    - click==8.0.4
+    - colorama==0.4.4
+    - decorator==4.4.2
+    - idna==3.3
+    - imageio==2.16.0
+    - imageio-ffmpeg==0.4.5
+    - importlib-metadata==4.11.1
+    - isort==5.10.1
+    - lazy-object-proxy==1.7.1
+    - mccabe==0.6.1
+    - moviepy==1.0.3
+    - mypy-extensions==0.4.3
+    - numpy==1.21.5
+    - pathspec==0.9.0
+    - pillow==9.0.1
+    - platformdirs==2.5.1
+    - proglog==0.1.9
+    - pylint==2.12.2
+    - python-dotenv==0.20.0
+    - pytube==12.0.0
+    - requests==2.27.1
+    - toml==0.10.2
+    - tomli==2.0.1
+    - tqdm==4.62.3
+    - typed-ast==1.5.2
+    - typing-extensions==4.1.1
+    - urllib3==1.26.8
+    - wrapt==1.13.3
+    - zipp==3.7.0
+prefix: C:\Users\keonm\miniconda3\envs\pytube
