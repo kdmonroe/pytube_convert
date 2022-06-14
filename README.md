@@ -1,4 +1,4 @@
-# Custom Video Importer + Converter
+# Pytube Convert - Automated Video Downloader + Converter
 
 This program downloads public playlists or videos locally using **PyTube**, and convert to a desired audio format using **MoviePy**.
 
